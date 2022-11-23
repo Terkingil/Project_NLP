@@ -1,0 +1,2 @@
+model_checkpoint_path: "GRU_weights_500_250"
+all_model_checkpoint_paths: "GRU_weights_500_250"
