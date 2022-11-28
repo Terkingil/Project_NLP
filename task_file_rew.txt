@@ -1,7 +1,7 @@
 EMAIL, NAME, LAST_NAME, TEL, CITY,
  Ivan, Abramov, 7776514, Moscow,
  Alexey, Nikolaev, 1348520, Moscow, 
-Marina, Shapar, 11311110, Moscow, 
+Marina, iajsf, 11311110, Moscow, 
 Dmitriy, Vasilyev, 0000000, Kazan, 
 Ekaterina, Ilyina, , St.Petersburg, 
 Anastasiya, Grigoryan, 1928421, Ekaterinburg, 
