@@ -1,9 +1,9 @@
 EMAIL, NAME, LAST_NAME, TEL, CITY,
- Ivan, Abramov, 7776514, Moscow,
- Alexey, Nikolaev, 1348520, Moscow, 
+ Ivan, Abramov, 7776514, Moscw,
+ Alexey, Nikolaev, 1348520, Moscow1, 
 Marina, iajsf, 11311110, Moscow, 
 Dmitriy, Vasilyev, 0000000, Kazan, 
-Ekaterina, Ilyina, , St.Petersburg, 
+asjaks, Ilyina, , St.Petersburg, 
 Anastasiya, Grigoryan, 1928421, Ekaterinburg, 
 Andrey, Fedorov, 85212384, Minsk, 
 Alexey, Lisitsyn, 1239532, Tver, 
@@ -62,3 +62,4 @@ Alexei, Savelievv, 5456787, Omsk
 Alexandra, Eermolina, 3458723, Volgograd,
 Olga, Belova, 5555555, Izhevsk
 Ksenia, Izverova, 5467328, jsdhf
+Ksenia, Izverova, 7543292, Vornezh
