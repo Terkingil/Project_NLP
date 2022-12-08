@@ -1,18 +1,14 @@
 # Project_NLP
 
- <a name="Cntns"></a>
- + [Описание программы](#Desc)
- + [Архитектура файлов](#Arch)
- + [Идея работы](#Idea)
-
-
 #### Было:
 ![alt text](https://github.com/Terkingil/Project_NLP/blob/main/Images/before.png)
 #### Стало:
 ![alt text](https://github.com/Terkingil/Project_NLP/blob/main/Images/after.png)
 
-
-
+ <a name="Cntns"></a>
+ + [Описание программы](#Desc)
+ + [Архитектура файлов](#Arch)
+ + [Идея работы](#Idea)
 
 ### <a name="Desc"></a>	
 <p>Проект «Работа со списком сотрудников»</p>
